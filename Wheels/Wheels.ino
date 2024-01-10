@@ -17,7 +17,6 @@ void setup() {
 
 
 void loop() {
-  // Exemple : faire un tour complet dans le sens des aiguilles d'une montre
   turnClockwise();
   delay(2000);  // Attendre pendant 2 secondes
 }
